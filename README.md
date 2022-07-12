@@ -1,1 +1,1 @@
-# HardWaves
+# HardWaves 2.0
